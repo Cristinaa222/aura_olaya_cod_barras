@@ -1,0 +1,16 @@
+{
+    "name": "vendor/creacion_personas",
+    "autoload": {
+        "psr-4": {
+            "Vendor\\CreacionPersonas\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "cristina olaya"
+        }
+    ],
+    "require": {
+        "picqer/php-barcode-generator": "^2.4"
+    }
+}
